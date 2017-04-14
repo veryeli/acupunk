@@ -1,6 +1,6 @@
 body {
   background-color: #dcdcbe;
-  font-family: "Crimson Text", serif;
+  font-family: 'Special Elite', cursive;
   font-weight: 300;
   margin: 0;
   padding-bottom: 60px;
@@ -17,7 +17,6 @@ h1 {
 h2 {
   bottom: -0.1em;
   font-size: 24px;
-  font-style: italic;
   margin: 0;
   max-width: 100%;
   opacity: 0.8;
@@ -69,9 +68,6 @@ canvas {
 }
 
 p {
-  font-style: italic;
-  font-size: 20px;
-  margin-top: -30px;
   margin: auto;
   width: 50%;
   text-align: center;
